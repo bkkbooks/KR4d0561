@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0561/WYG/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龜巢藁
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:23:47.849010'
+  source:
+    repository: kanripo
+    path: KR4d0561/KR4d0561_011.txt
+hash: sha256:f2555fb945437c2d1ce98c16089ad2c8264b2fc7e9691468268ceb0680d102bb
