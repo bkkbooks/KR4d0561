@@ -48,6 +48,7 @@ markers:
       ', id: KR4d0561_krp_018-bkkkrnewl7}
   - {type: line-break, offset: 87, content: '', id: KR4d0561_SBCK_018-1a08}
   - {type: punctuation, offset: 87, content: (, id: KR4d0561_krp_018-bkkpn1}
+  - {type: voice, offset: 87, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 91, content: /, id: KR4d0561_krp_018-bkkpn2}
   - {type: punctuation, offset: 95, content: ), id: KR4d0561_krp_018-bkkpn3}
   - {type: substitution, offset: 105, original: 䆒, replacement: 究, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-3845}}
@@ -2158,6 +2159,7 @@ markers:
   - {type: line-break, offset: 5828, content: '', id: KR4d0561_SBCK_018-20b04}
   - {type: indent, offset: 5828, content: 　　, id: KR4d0561_krp_018-bkkind30}
   - {type: punctuation, offset: 5831, content: (, id: KR4d0561_krp_018-bkkpn4}
+  - {type: voice, offset: 5831, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 5838, content: ), id: KR4d0561_krp_018-bkkpn5}
   - {type: 'kr:newline', offset: 5838, content: '
 
@@ -2850,6 +2852,7 @@ markers:
   - {type: line-break, offset: 7758, content: '', id: KR4d0561_SBCK_018-27a05}
   - {type: indent, offset: 7758, content: 　　, id: KR4d0561_krp_018-bkkind38}
   - {type: punctuation, offset: 7761, content: (, id: KR4d0561_krp_018-bkkpn6}
+  - {type: voice, offset: 7761, length: 5, name: note, id: n3}
   - {type: substitution, offset: 7764, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 7766, content: ), id: KR4d0561_krp_018-bkkpn7}
   - {type: 'kr:newline', offset: 7766, content: '
@@ -4376,4 +4379,4 @@ markers:
 
       ', id: KR4d0561_krp_018-bkkkrnewl809}
   back: []
-hash: sha256:16ee7c029890043a6b938a87d89ce6b7e155984ddf69560593b4da1ccac525bf
+hash: sha256:b7a575bb8644545cc86fa2dfda010ad23acd9091965a0d80ff7465a423eeb659
